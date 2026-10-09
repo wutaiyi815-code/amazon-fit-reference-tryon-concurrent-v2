@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+_aigc_fit_work/
+result_*.png
+checkpoint.json
+

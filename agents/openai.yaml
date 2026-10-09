@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon 版型参考并发上身 v2"
+  short_description: "强制全部产品与搭配品上身，并在付费前校验完整性"
+  default_prompt: "Use $amazon-fit-reference-tryon-concurrent-v2 to process my reviewed SKU try-on jobs with strict all-product coverage and three concurrent workers."
